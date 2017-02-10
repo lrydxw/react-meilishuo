@@ -1,0 +1,922 @@
+{
+    "success": true,
+    "returnCode": "1001",
+    "returnMessage": null,
+    "data": {
+        "total": 468921,
+        "title": "美丽说wap首页",
+        "sort": "sell",
+        "isEnd": false,
+        "cpc_offset": 0,
+        "param": {
+            "_mgjuuid": "f0b0c042-5eca-4ee3-8e9d-683ce72e4de1",
+            "sort": "sell",
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "ptpWallDoc": "_wall_docs",
+            "cpc_offset": 0,
+            "eventId": 70003,
+            "cKey": "wap-index",
+            "page": "1",
+            "fcid": "10057922",
+            "cpcEventId": 70005,
+            "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+            "minPrice": "5"
+        },
+        "page": 1,
+        "list": [
+            {
+                "orgPrice": "￥99.90",
+                "acm": "3.ms.2_4_1fue1ha.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1fue1ha",
+                "link": "http://item.meilishuo.com/h5/detail/1fue1ha?acm=3.ms.2_4_1fue1ha.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "98 114 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/160827/801739305_5ifk202dl858f62988401efb516l0_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 5381,
+                "title": "买2送1果冻变色口红防水不沾杯不掉色脱色持久滋润保湿唇膏",
+                "cfav": 9265,
+                "price": "￥25.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "shopId": 100107329,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥158.00",
+                "acm": "3.ms.2_4_1glr8gy.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1glr8gy",
+                "link": "http://item.meilishuo.com/h5/detail/1glr8gy?acm=3.ms.2_4_1glr8gy.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "98 82 107 62",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160817/1461439625_674ll7ff3323c9afb3f182i8j54bf_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 3492,
+                "title": "年终特惠冬季必备韩版高领毛衣打底衫针织衫套头宽松卫衣加厚外套",
+                "cfav": 12343,
+                "price": "￥79.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1300300910,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥155.80",
+                "acm": "3.ms.2_4_1gmu7vq.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gmu7vq",
+                "link": "http://item.meilishuo.com/h5/detail/1gmu7vq?acm=3.ms.2_4_1gmu7vq.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 107 62",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160905/1017487614_2511d9lffg62kl2l2a3dif9e9l0k8_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 3230,
+                "title": "杨幂同款新款短靴女秋冬单靴雕花马丁靴女英伦风粗跟短筒靴子女",
+                "cfav": 8088,
+                "price": "￥99.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 200585219,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥184.28",
+                "acm": "3.ms.2_4_1gmrrug.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gmrrug",
+                "link": "http://item.meilishuo.com/h5/detail/1gmrrug?acm=3.ms.2_4_1gmrrug.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "2 98 62 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160909/1263996979_6ag8de670dcfl0a26ic09j0ka1fdb_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 3058,
+                "title": "2016秋季新款女靴子马丁靴短靴子英伦风粗跟及裸靴女鞋子单靴",
+                "cfav": 10506,
+                "price": "￥119.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1101606216,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥360.00",
+                "acm": "3.ms.2_1_1fqqo2a.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_76502275_0_1-c1_",
+                "iid": "1fqqo2a",
+                "link": "http://item.meilishuo.com/h5/detail/1fqqo2a?acm=3.ms.2_1_1fqqo2a.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_76502275_0_1-c1_&cparam=MTQ4MzEwMjg3Ml8xNHh4bXUyX2FjZjczMmY5ODIzZDg1ZjZkODVmMGVhNjk5Nzk5ODc2XzFfMF83NjUwMjI3NV8xLjIxNDlfMF8xXzFfNjU=",
+                "itemType": 3,
+                "popularStar": "5",
+                "cparam": "MTQ4MzEwMjg3Ml8xNHh4bXUyX2FjZjczMmY5ODIzZDg1ZjZkODVmMGVhNjk5Nzk5ODc2XzFfMF83NjUwMjI3NV8xLjIxNDlfMF8xXzFfNjU=",
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/5c/a3/27a6ffcdc7dfce26fc9f48ff41de_640_837.ch.jpg_e91b543c_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "1482",
+                "title": "秋冬高腰牛仔裤长裤加绒小脚裤显瘦弹力紧身裤子铅笔裤休闲高腰裤",
+                "cfav": "17687",
+                "price": "￥108.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "100132763",
+                "leftbottom_taglist": [
+                    "http://s18.mogucdn.com/p2/161220/upload_3cgce3hgi1k722dg2ea0cj4fd9i0l_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥256.00",
+                "acm": "3.ms.2_1_1h2y1fe.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_149430609_0_2-c1_",
+                "iid": "1h2y1fe",
+                "link": "http://item.meilishuo.com/h5/detail/1h2y1fe?acm=3.ms.2_1_1h2y1fe.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_149430609_0_2-c1_&cparam=MTQ4MzEwMjg3Ml8xNTZ0ejlpXzg3OTE4YWRhMWRmN2U2N2IyOTllNTcwMGY4Mjk4NmEyXzFfMV8xNDk0MzA2MDlfMS4wODc4XzBfMl8xXzM4Nw==",
+                "itemType": 3,
+                "popularStar": "5",
+                "cparam": "MTQ4MzEwMjg3Ml8xNTZ0ejlpXzg3OTE4YWRhMWRmN2U2N2IyOTllNTcwMGY4Mjk4NmEyXzFfMV8xNDk0MzA2MDlfMS4wODc4XzBfMl8xXzM4Nw==",
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161120/m2fv5v_0j6kelh470cch821bg1jh71bhl289_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "448",
+                "title": "裙子套装韩版纯色加厚双排扣立领棉袄外套+纯色针织包臀半身裙",
+                "cfav": "2161",
+                "price": "￥128.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "1201718981",
+                "leftbottom_taglist": [
+                    "http://s16.mogucdn.com/p2/161220/upload_7d4lkc93i48791ai0jkh2g3i27k13_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥19.80",
+                "acm": "3.ms.2_4_1ftvgsm.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1ftvgsm",
+                "link": "http://item.meilishuo.com/h5/detail/1ftvgsm?acm=3.ms.2_4_1ftvgsm.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "2 98 82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/161015/1190694929_4alj0c7idh81hfg1g32bbi0g9egbh_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 3006,
+                "title": "朵拉朵尚护手精华护手霜",
+                "cfav": 2426,
+                "price": "￥9.50",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "shopId": 1101084926,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥90.00",
+                "acm": "3.ms.2_4_1fwarw2.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1fwarw2",
+                "link": "http://item.meilishuo.com/h5/detail/1fwarw2?acm=3.ms.2_4_1fwarw2.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "2 98 82 107 62",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160927/874249630_85dd106gh33c49k50eie06h3ld0b3_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2899,
+                "title": "雪玲妃清爽净颜卸妆水脸部深层清洁面乳液眼部眼唇彩妆淡妆卸妆",
+                "cfav": 4345,
+                "price": "￥29.90",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "shopId": 100118751,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥199.50",
+                "acm": "3.ms.2_4_1frr8ke.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1frr8ke",
+                "link": "http://item.meilishuo.com/h5/detail/1frr8ke?acm=3.ms.2_4_1frr8ke.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/82/3e/0174b432cd2e588515011df335b0_640_960.ch.jpg_f231d63f_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2821,
+                "title": "baby同款羊绒围巾女秋冬季韩版学生披肩围脖纯色气质百搭",
+                "cfav": 5864,
+                "price": "￥39.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 100105059,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥174.50",
+                "acm": "3.ms.2_4_1gmjqy8.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gmjqy8",
+                "link": "http://item.meilishuo.com/h5/detail/1gmjqy8?acm=3.ms.2_4_1gmjqy8.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160830/iebxit_35c9i6ff1g1il6l717e3c5f95g94g_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2797,
+                "title": "2016秋冬季保暖原宿潮春款韩版学生羊羔毛外套女短款羽绒棉服",
+                "cfav": 10469,
+                "price": "￥62.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 200698229,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥182.90",
+                "acm": "3.ms.2_4_1h324tc.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1h324tc",
+                "link": "http://item.meilishuo.com/h5/detail/1h324tc?acm=3.ms.2_4_1h324tc.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161125/1201642661_0e05jlichll31fddejfd924403jeh_640x900.png_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2625,
+                "title": "冬季新款韩版时尚名媛气质套头慵懒卷边毛衣+修身显瘦半身裙套装",
+                "cfav": 10199,
+                "price": "￥128.03",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1101180133,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥155.00",
+                "acm": "3.ms.2_4_1gndcww.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gndcww",
+                "link": "http://item.meilishuo.com/h5/detail/1gndcww?acm=3.ms.2_4_1gndcww.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160920/jvfdet_723hc5k9ccj741hkh8kj13aa3i7e3_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2591,
+                "title": "秋冬新款韩版时尚休闲百搭套头加厚中长款打底宽松显瘦毛衣羊绒衫",
+                "cfav": 19658,
+                "price": "￥106.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1101180133,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥124.75",
+                "acm": "3.ms.2_4_1gq7ui4.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gq7ui4",
+                "link": "http://item.meilishuo.com/h5/detail/1gq7ui4?acm=3.ms.2_4_1gq7ui4.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/161014/1324264701_0dg0df2gbjc2gbl4c0gd3kgf3c41g_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2507,
+                "title": "2016秋冬新款针织衫女装套头韩版高领毛衣打底衫长袖加厚短款",
+                "cfav": 4166,
+                "price": "￥49.90",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1201722444,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥126.00",
+                "acm": "3.ms.2_4_1gmtryo.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gmtryo",
+                "link": "http://item.meilishuo.com/h5/detail/1gmtryo?acm=3.ms.2_4_1gmtryo.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 4,
+                "cparam": null,
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160918/1206810215_71dgfg64ha4dldfeilkd06i57j4ca_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2389,
+                "title": "秋冬新款加绒宽松大码上衣女长款卫衣",
+                "cfav": 5744,
+                "price": "￥85.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1101169389,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥142.72",
+                "acm": "3.ms.2_1_1h38dn4.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_156903623_0_3-c1_",
+                "iid": "1h38dn4",
+                "link": "http://item.meilishuo.com/h5/detail/1h38dn4?acm=3.ms.2_1_1h38dn4.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_156903623_0_3-c1_&cparam=MTQ4MzEwMjg3Ml8xNWM5dTJ1Xzc5NzY3ODE1Mzk2NGE3YjBjOTI1ODdjNWY2ZjU1MWM4XzFfMl8xNTY5MDM2MjNfMC45NjQ5XzBfM18xXzc0Mg==",
+                "itemType": 3,
+                "popularStar": "5",
+                "cparam": "MTQ4MzEwMjg3Ml8xNWM5dTJ1Xzc5NzY3ODE1Mzk2NGE3YjBjOTI1ODdjNWY2ZjU1MWM4XzFfMl8xNTY5MDM2MjNfMC45NjQ5XzBfM18xXzc0Mg==",
+                "itemMarks": "2 98 82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161202/1476125306_5kb8lhkghl22i8ehc24di945303ka_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "666",
+                "title": "【今日拍减10元】衬衫拼接假两件宽松中长款卫衣韩版宽松连衣裙",
+                "cfav": "4625",
+                "price": "￥96.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "200190309",
+                "leftbottom_taglist": [
+                    "http://s18.mogucdn.com/p2/161220/upload_3cgce3hgi1k722dg2ea0cj4fd9i0l_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥190.00",
+                "acm": "3.ms.2_1_1h3mifu.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_161472551_1529274_4-c1_",
+                "iid": "1h3mifu",
+                "link": "http://item.meilishuo.com/h5/detail/1h3mifu?acm=3.ms.2_1_1h3mifu.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_161472551_1529274_4-c1_&cparam=MTQ4MzEwMjg3Ml8xNTltZWpxXzM1N2JhODA2MmUyYWMxNWUxZDIyYzQ5MzM3MWJkMWM5XzFfM18xNjE0NzI1NTFfMC43NDA5XzE1MjkyNzRfNF8xXzU5NQ==",
+                "itemType": 3,
+                "popularStar": "0",
+                "cparam": "MTQ4MzEwMjg3Ml8xNTltZWpxXzM1N2JhODA2MmUyYWMxNWUxZDIyYzQ5MzM3MWJkMWM5XzFfM18xNjE0NzI1NTFfMC43NDA5XzE1MjkyNzRfNF8xXzU5NQ==",
+                "itemMarks": "98 82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161223/890480211_56ld7f1kgkh85k38b7gbkcc9glh3k_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "94",
+                "title": "2017早春新款名媛气质立领上衣+个性连衣裤两件套装",
+                "cfav": "2686",
+                "price": "￥128.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "100173767",
+                "leftbottom_taglist": [
+                    "http://s18.mogucdn.com/p2/161220/upload_3cgce3hgi1k722dg2ea0cj4fd9i0l_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥127.00",
+                "acm": "3.ms.2_4_1gp6lwc.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gp6lwc",
+                "link": "http://item.meilishuo.com/h5/detail/1gp6lwc?acm=3.ms.2_4_1gp6lwc.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "98 114 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160930/932324832_81a3ehe8l0003cla22lifkk0lj00f_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2317,
+                "title": "秋季新品韩系一字领百搭打底衫上衣舒适套头毛衣针织衫上衣",
+                "cfav": 19386,
+                "price": "￥88.90",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 100171517,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥296.00",
+                "acm": "3.ms.2_4_1gp52ua.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gp52ua",
+                "link": "http://item.meilishuo.com/h5/detail/1gp52ua?acm=3.ms.2_4_1gp52ua.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161006/873713662_4j40gk20aj39d820jd7ii8ied1ea2_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2146,
+                "title": "杨幂同款显瘦紧腿系带绑带保暖靴子长筒靴平底长靴过膝靴弹力靴",
+                "cfav": 9383,
+                "price": "￥142.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 100130353,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥21.41",
+                "acm": "3.ms.2_4_1glxj64.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1glxj64",
+                "link": "http://item.meilishuo.com/h5/detail/1glxj64?acm=3.ms.2_4_1glxj64.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160830/944552084_8gfd5bjl7a826ekdfkaid01lal5i0_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1932,
+                "title": "宿舍小功率迷你直发器空气刘海卷发棒电夹板熨板两用拉直板直板夹",
+                "cfav": 1557,
+                "price": "￥14.98",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 100182706,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥118.00",
+                "acm": "3.ms.2_4_1glstbq.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1glstbq",
+                "link": "http://item.meilishuo.com/h5/detail/1glstbq?acm=3.ms.2_4_1glstbq.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "115 98 160 107 166 62",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160819/874249630_0f6cbf509e2h0hdgb91bkda030c61_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1924,
+                "title": "第二件半价 雪玲妃双色立体口红丰盈润唇膏唇部润唇持久保湿",
+                "cfav": 2830,
+                "price": "￥39.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "shopId": 100118751,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥85.00",
+                "acm": "3.ms.2_4_1gp0sx4.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gp0sx4",
+                "link": "http://item.meilishuo.com/h5/detail/1gp0sx4?acm=3.ms.2_4_1gp0sx4.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 4,
+                "cparam": null,
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161006/l1dik9_7dk9idkia65f33892fakecidif9ih_640x842.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1843,
+                "title": "2016冬季加厚黑色加绒牛仔裤女长裤弹力修身铅笔小脚裤学院风",
+                "cfav": 1166,
+                "price": "￥59.50",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1201720836,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥49.75",
+                "acm": "3.ms.2_4_1gp8gzo.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gp8gzo",
+                "link": "http://item.meilishuo.com/h5/detail/1gp8gzo?acm=3.ms.2_4_1gp8gzo.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161005/1339100313_2dje415dh5kh71eb45791ld4fk29b_640x832.gif_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1833,
+                "title": "秋冬新款韩版修身薄针织衫女套头毛衣长袖打底衫纯色V领上衣",
+                "cfav": 1951,
+                "price": "￥39.80",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1201721238,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥50.00",
+                "acm": "3.ms.2_4_1gnr1u6.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gnr1u6",
+                "link": "http://item.meilishuo.com/h5/detail/1gnr1u6?acm=3.ms.2_4_1gnr1u6.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "62 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160919/dnng8e_6c3caa6jl3aj2e5g78cl56k06f5c0_640x961.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1819,
+
+                "title": "2件49元韩国女冬学生仿羊绒围巾流苏情侣纯色百搭保暖围脖披肩",
+                "cfav": 3313,
+                "price": "￥25.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 100114216,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥92.86",
+                "acm": "3.ms.2_4_1gngsb8.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gngsb8",
+                "link": "http://item.meilishuo.com/h5/detail/1gngsb8?acm=3.ms.2_4_1gngsb8.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160920/887565023_7eb1c4ed36aibk9hhkhjeb3f58ad0_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1792,
+                "title": "韩版新款宽松加厚打底衫学生女装毛衣纯色套头半高领针织衫毛线衣",
+                "cfav": 7529,
+                "price": "￥65.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 100157087,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥140.00",
+                "acm": "3.ms.2_1_1h3gy3a.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_159246327_0_5-c1_",
+                "iid": "1h3gy3a",
+                "link": "http://item.meilishuo.com/h5/detail/1h3gy3a?acm=3.ms.2_1_1h3gy3a.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_159246327_0_5-c1_&cparam=MTQ4MzEwMjg3Ml8xNHQxcjNxXzhkNTQzNmJkNDZhNzI1OTMwOTNjZTA2OWZjNDU1ODY0XzFfNF8xNTkyNDYzMjdfMS4xMjQ1XzBfNV8xXzc3NQ==",
+                "itemType": 3,
+                "popularStar": "0",
+                "cparam": "MTQ4MzEwMjg3Ml8xNHQxcjNxXzhkNTQzNmJkNDZhNzI1OTMwOTNjZTA2OWZjNDU1ODY0XzFfNF8xNTkyNDYzMjdfMS4xMjQ1XzBfNV8xXzc3NQ==",
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161215/1303413511_5jeek36db7gj04e0dk9cabl61d963_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "57",
+                "title": "新款韩版色加绒圆领加厚字母刺绣休闲学生套头卫衣女",
+                "cfav": "619",
+                "price": "￥98.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "1201688770",
+                "leftbottom_taglist": [
+                    "http://s16.mogucdn.com/p2/161220/upload_7d4lkc93i48791ai0jkh2g3i27k13_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥336.00",
+                "acm": "3.ms.2_1_1h2lbby.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_145327647_0_6-c1_",
+                "iid": "1h2lbby",
+                "link": "http://item.meilishuo.com/h5/detail/1h2lbby?acm=3.ms.2_1_1h2lbby.1.5865-5765-5735.gcxrYq6S8vJOP.t_0-lc_1-c_1_1_145327647_0_6-c1_&cparam=MTQ4MzEwMjg3Ml8xMWtfZDY5MmIzY2Q1NDhjZWM0NDVjODBjMjUzZGM0YzAxZDJfMV81XzE0NTMyNzY0N18wXzBfNl8xXzM4Nw==",
+                "itemType": 3,
+                "popularStar": "5",
+                "cparam": "MTQ4MzEwMjg3Ml8xMWtfZDY5MmIzY2Q1NDhjZWM0NDVjODBjMjUzZGM0YzAxZDJfMV81XzE0NTMyNzY0N18wXzBfNl8xXzM4Nw==",
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161111/m2fv5v_4c9dj2cb564d731b1315301kadgkh_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "744",
+                "title": "两件套2016冬新款韩翻领麂皮绒拼羊羔毛长袖外套+毛毛牛仔裤",
+                "cfav": "5441",
+                "price": "￥163.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "1201718981",
+                "leftbottom_taglist": [
+                    "http://s16.mogucdn.com/p2/161220/upload_7d4lkc93i48791ai0jkh2g3i27k13_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥118.00",
+                "acm": "3.ms.2_4_1ft0r9m.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1ft0r9m",
+                "link": "http://item.meilishuo.com/h5/detail/1ft0r9m?acm=3.ms.2_4_1ft0r9m.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "115 98 160 107 166 62",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p1/160708/874249630_ie4wcyzyhe2wczrzhezdambqgqyde_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1767,
+                "title": "送补水面膜 雪玲妃去黑头冻膜100g控油收缩毛孔女男清洁粉刺",
+                "cfav": 4873,
+                "price": "￥39.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "shopId": 100118751,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥70.00",
+                "acm": "3.ms.2_4_1gnyrqw.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1gnyrqw",
+                "link": "http://item.meilishuo.com/h5/detail/1gnyrqw?acm=3.ms.2_4_1gnyrqw.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160922/l1dik9_29h1h1id8c6ie187f77i04a2cgc5l_640x842.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1763,
+                "title": "秋冬新款女装韩版半高领毛衣女加厚长袖针织修身显瘦套头打底衫",
+                "cfav": 2039,
+                "price": "￥49.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1201720836,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥184.00",
+                "acm": "3.ms.2_4_1glynri.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1glynri",
+                "link": "http://item.meilishuo.com/h5/detail/1glynri?acm=3.ms.2_4_1glynri.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/160922/1315878265_3i3bb0l41aafe5ai46i7lc6cb8j0d_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1741,
+                "title": "【梦亿帆】冬季加绒短靴女潮新款百搭穿几年不开胶不断底",
+                "cfav": 8244,
+                "price": "￥119.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1201717981,
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥88.00",
+                "acm": "3.ms.2_4_1ftnnfu.0.13385.gcxrYq6S8vJOP.t_0",
+                "iid": "1ftnnfu",
+                "link": "http://item.meilishuo.com/h5/detail/1ftnnfu?acm=3.ms.2_4_1ftnnfu.0.13385.gcxrYq6S8vJOP.t_0",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161226/863560521_1k54habddklg984h32e30jgki0h35_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1733,
+                "title": "【第二支1元】韩熙贞甜蜜之吻唇膏哑光口红持久保湿不掉色不沾杯",
+                "cfav": 11897,
+                "price": "￥36.96",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "shopId": 100107167,
+                "leftbottom_taglist": [
+                    
+                ]
+            }
+        ],
+        "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+        "filter": {
+            "title": "美丽说wap首页",
+            "list": [
+                {
+                    "title": "流行",
+                    "sort": "pop",
+                    "style": null,
+                    "fcid": "10057922",
+                    "type": "sort"
+                },
+                {
+                    "title": "热销",
+                    "sort": "sell",
+                    "style": null,
+                    "fcid": "10057922",
+                    "type": "sort"
+                },
+                {
+                    "title": "上新",
+                    "sort": "new",
+                    "style": null,
+                    "fcid": "10057922",
+                    "type": "sort"
+                }
+            ]
+        }
+    }
+}
